@@ -13,7 +13,7 @@ This program will let you automate the process for documenting interventions in 
 
 4. You will be propted to select between `reading` or `math` intervention. 
 
-5. Then you will be asked to take the attendance of your homeroom class. Choose between `y` or `n` is the student is present.
+5. Then you will be asked to take the attendance of your homeroom class. Choose between `y` or `n` if the student is present.
 
 6. Wait and see! 
 

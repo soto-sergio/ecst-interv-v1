@@ -1,4 +1,3 @@
-1
 # Automating Interventions with Selenium and Python
 ***
 

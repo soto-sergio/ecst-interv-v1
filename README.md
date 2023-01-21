@@ -26,6 +26,6 @@ This program will let you automate the process for documenting interventions in 
 
 > * Amount of minutes of each intervention entry is set to 30. Changing it seems to produce an error.
 >
-> * Please test the program with ONLY ONE student the first time since I can't confirm that the links that appear to select Math or Reading Intervention appear in the same order than it did for me.
+> * Please test the program with ONLY ONE student the first time since I can't confirm that the xpaths to select between Math or Reading Intervention appear in the same order/location than it did for me.
 
 

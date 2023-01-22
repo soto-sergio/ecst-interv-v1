@@ -4,7 +4,14 @@
 This program will let you automate the process for documenting interventions in ecst on the current day of your class intervention.   
 ***
 
-## Steps:
+## Quickstart
+
+Set up a conda environment using the command line in the project's folder.  
+
+> conda env create -f environment.yml
+> conda activate eduenv
+
+## Steps
 
 1. Download ChromeDriver if using Google Chrome as web browser. [Link](https://chromedriver.chromium.org/downloads) 
 - Install and keep `chromedriver.exe` in the project's folder.  
@@ -22,7 +29,7 @@ This program will let you automate the process for documenting interventions in 
 6. Wait and see! 
 
 
-## NOTES:
+## NOTES
 
 > * Amount of minutes of each intervention entry is set to 30. Changing it seems to produce an error.
 >

@@ -8,7 +8,7 @@ This program will let you automate the process for documenting interventions in 
 
 Set up a conda environment using the command line in the project's folder.  
 
-> conda env create -f environment.yml
+> conda env create -f environment.yml  
 > conda activate eduenv
 
 ## Steps

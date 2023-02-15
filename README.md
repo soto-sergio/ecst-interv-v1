@@ -24,7 +24,7 @@ e. Create environment variables
 1. Download ChromeDriver if using Google Chrome as web browser. [Link](https://chromedriver.chromium.org/downloads) 
 - Install and keep `chromedriver.exe` in the project's folder. [Not required. Driver already included]
 
-2. In the `private/` folder you will see the two scripts for sensitive information:  
+2. In the `private/` folder you will see the two scripts that contain sensitive information:  
 `credentials.py` for teacher's login info. Here, you must type your E number. Password will be asked everytime the python script is run.     
 `homeroom_roster.py` for homeroom roster. Data is expected to be stored as a dictionary. ID:"First Name". Populate your homeroom roster before running the python script.  
 

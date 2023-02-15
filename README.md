@@ -22,7 +22,7 @@ e. Create environment variables
 ## Steps
 
 1. Download ChromeDriver if using Google Chrome as web browser. [Link](https://chromedriver.chromium.org/downloads) 
-- Install and keep `chromedriver.exe` in the project's folder. [Not required. Step already included]
+- Install and keep `chromedriver.exe` in the project's folder. [Not required. Driver already included]
 
 2. In the `private/` folder you will see the two scripts for sensitive information:  
 `credentials.py` for teacher's login info. Here, you must type your E number. Password will be asked everytime the python script is run.     

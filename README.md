@@ -1,7 +1,7 @@
 # Automating Interventions with Selenium and Python
 ***
 
-This program will let you automate the process for documenting interventions in ecst on the current day of your class intervention.   
+This program will let you automate the process for documenting interventions in ecst on the current day of your class intervention using the Windows Command Line.  
 ***
 
 ## Quickstart (Windows)
